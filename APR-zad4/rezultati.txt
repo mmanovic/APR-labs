@@ -1,0 +1,98 @@
+Double array solution, Schaffer f6 function, Dimension: 3
+Error value: 0.009715909877514362
+Error value: 0.009715909877514362
+Error value: 0.03722407510748782
+Error value: 0.03722407510748782
+Error value: 0.009715909877514362
+Error value: 0.009715909877514362
+Error value: 0.009715909877514362
+Error value: 0.009715909877514362
+Error value: 0.009715909877514362
+Error value: 0.009715909877514362
+
+Bitvector solution, Schaffer f6 function, Dimension: 3
+Error value: 0.010143110262591126
+Error value: 0.009781364912600565
+Error value: 0.00976061116431548
+Error value: 0.009716383373124304
+Error value: 0.00978491795947789
+Error value: 0.009732342234853586
+Error value: 0.0099209018646233
+Error value: 0.009720702554930627
+Error value: 0.009769632181291343
+Error value: 0.009719821331765521
+
+Double array solution, Schaffer f6 function, Dimension: 6
+Error value: 0.3455063437531662
+Error value: 0.44190832124473944
+Error value: 0.17822230254550503
+Error value: 0.009715909877514417
+Error value: 0.03764250103005756
+Error value: 0.22769013852017844
+Error value: 0.227690138520178
+Error value: 0.39609792027303137
+Error value: 0.17822230254550503
+Error value: 0.44190832124427026
+
+Bitvector solution, Schaffer f6 function, Dimension: 6
+Error value: 0.22876592161986448
+Error value: 0.22868811593221938
+Error value: 0.19899039215801062
+Error value: 0.18116842689452145
+Error value: 0.1667598304218223
+Error value: 0.18393626335716012
+Error value: 0.18697749892349907
+Error value: 0.17901326320354882
+Error value: 0.13418603216234576
+Error value: 0.08211846270584788
+
+==============================================
+
+Double array solution, Schaffer f7 function, Dimension: 3
+Error value: 1.0126999330046977
+Error value: 1.9991340167062075
+Error value: 1.1785115802182498
+Error value: 2.791633203357063
+Error value: 1.7695085326291051
+Error value: 0.725134394289842
+Error value: 0.2399962125240256
+Error value: 1.1785115802182498
+Error value: 1.359623170195214
+Error value: 1.0126999330046977
+
+Bitvector solution, Schaffer f7 function, Dimension: 3
+Error value: 0.03136562791448014
+Error value: 0.03134952786855534
+Error value: 0.01520488043200532
+Error value: 0.01520488043200532
+Error value: 0.01520488043200532
+Error value: 0.03134952786855534
+Error value: 0.01520488043200532
+Error value: 0.01520488043200532
+Error value: 0.01520488043200532
+Error value: 0.020751994555791513
+
+Double array solution, Schaffer f7 function, Dimension: 6
+Error value: 6.6694108775120835
+Error value: 6.189725217087975
+Error value: 7.17073450853682
+Error value: 6.189725217087975
+Error value: 2.50980063939142
+Error value: 5.731356935296144
+Error value: 4.877265428568527
+Error value: 5.731356935296145
+Error value: 5.731356935296145
+Error value: 3.747699265567503
+
+Bitvector solution, Schaffer f7 function, Dimension: 6
+Error value: 0.6217242227921356
+Error value: 0.6030248673658232
+Error value: 0.502350816703813
+Error value: 0.7257635300993415
+Error value: 0.5112792502189918
+Error value: 0.60351289441707
+Error value: 0.407028100686033
+Error value: 0.5455624054941787
+Error value: 0.44290385441651386
+Error value: 0.49752233779442
+
